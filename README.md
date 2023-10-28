@@ -188,5 +188,19 @@ ssc.get_ssc_list()
 #### Private-Method Based POP
 
 ```
+class SCALER:
+    def get_mms_value():
+        pass
+
+    def get_ssc_value():
+        pass
+
+    @staticmethod
+    def _get_min_value():
+        pass
+
+    @staticmethod
+    def _get_max_value():
+        pass
 ```
 
